@@ -1,0 +1,24 @@
+{
+  "name": "playwright_with_artillery",
+  "version": "1.0.0",
+  "description": "Playwright E2E testing with Load Test possibility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterzsilak/playwright_with_artillery.git"
+  },
+  "keywords": [
+    "Playwright",
+    "Artillery",
+    "Allure"
+  ],
+  "author": "Peter Zsilak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterzsilak/playwright_with_artillery/issues"
+  },
+  "homepage": "https://github.com/peterzsilak/playwright_with_artillery#readme"
+}
